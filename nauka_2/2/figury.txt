@@ -1,5 +1,0 @@
-1 trojkat
-2 prostokat
-3 kolo
-4 kwadrat
-5 trapez
